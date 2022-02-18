@@ -5,7 +5,7 @@
 ### Social architecture?
 
   * who takes responsibility for keeping it running: now? future? Is it grant-dependant?
-  * what governance processes govern it's usage, development, future?
+  * what governance processes govern its usage, development, future?
   * what structures are established to communicate with users and potential information providers?
   * what intitutional and financial base underpins those processes?
 
