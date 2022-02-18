@@ -50,6 +50,8 @@ Stimulating these kinds of discussions is entirely within the scope of the HASS-
 
 If unfamiliar with the term, "knowledge graph", read [this](https://blog.cambridgesemantics.com/knowledge-graphs-origins-inhibitors-and-breakthroughs).
 
+For applications of semantic web technology serving indigenous needs see [this paper by Aaron Corn](https://doi.org/10.1080/01576895.2019.1575248).
+
 Potential formalised relationships and governance agreements:
  * National Native Title Tribunal (NNTT) (are there any formal data exchanges periodically?) Example pointer: [ilua:VI2010.003](http://www.nntt.gov.au/searchRegApps/NativeTitleRegisters/Pages/ILUA_details.aspx?NNTT_Fileno=VI2010/003) with ATNS equivalent entry: [atns:5303](https://www.atns.net.au/agreement?EntityID=5303). 
    * Important note: The atns entry contains a link to a PDF of the agreement on the NNTT site -- the link is broken. This is the core use case for why "persistent identifiers" and using them as a locator of important resources, is needed. 
