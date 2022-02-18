@@ -38,5 +38,24 @@ However, from observations based only exploring the front-end website, the resou
 
 In summary, the ATNS has high potential as a HAAS-I National Data Asset. 
 
-The ATNS requires appropriate institutional level support for stimulating governance level discussions around what kind of things require "authoritative" and "persistent" machine readable identification. The ability to retain the integrity of those identifiers over time is important use case given the periods of time covered and the changing nature of the entities referenced. Stimulating these kinds of discussions is entirely within the scope of the HASS-I/ARDC Indigenous Data Commons/Capability project.
+The ATNS requires appropriate institutional level support for stimulating governance level discussions around:
+   * what kind of things require "authoritative" and "persistent" machine readable identification (The ability to retain the integrity of those identifiers over time is important use case given the periods of time covered and the changing nature of the entities referenced). Examples:
+      * organisations
+      * agreements
+      * .... etc TODO
 
+Stimulating these kinds of discussions is entirely within the scope of the HASS-I/ARDC Indigenous Data Commons/Capability project.
+
+## Towards an indigenous agreements ontology and knowledge graph?
+
+If unfamiliar with the term, "knowledge graph", read [this](https://blog.cambridgesemantics.com/knowledge-graphs-origins-inhibitors-and-breakthroughs).
+
+Potential formalised relationships and governance agreements:
+ * National Native Title Tribunal (NNTT) (are there any formal data exchanges periodically?) Example pointer: [ilua:VI2010.003](http://www.nntt.gov.au/searchRegApps/NativeTitleRegisters/Pages/ILUA_details.aspx?NNTT_Fileno=VI2010/003) with ATNS equivalent entry: [atns:5303](https://www.atns.net.au/agreement?EntityID=5303). 
+   * Important note: The atns entry contains a link to a PDF of the agreement on the NNTT site -- the link is broken. This is the core use case for why "persistent identifiers" and using them as a locator of important resources, is needed. 
+ * Office of the Registrar of Indigenous Corporations (ORIC): [atsn:4626](https://www.atns.net.au/agreement?EntityID=4626)
+ * many others e.g. ORIC, Aust Govt for formal Pids of Legislative instruments, AIATSIS re interoperability of high level subject categories and AUSLANG (Aiatsis Thesaurus and Indigenous Languages dataset).
+ 
+Development of a high level ontology and movement by institutions which authoritatively manage the data to which ATNS refers towards persistent identifiers is about far more than about preventing broken links. An agreed ontology which describes the general categories which the ATNS provides relationships and linkages could provide a common framework for extending to a broader range of indigenous concerns where "agreements" are vital. The obvious one which comes to mind is the myriad of agreements implicit in the "Closing the Gap". An established ontology and semantic knowledge graph, which the ATNS may be a prime candidate case study to explore possibilities, could become a far more powerful service by allowing indigenous groups to extend such a KG with assertions describing their own experiences and aspirations e.g. successes, risks, barriers, achievements, exemplars etc.. 
+
+Please note the above thoughts are purely speculative and "blue sky". They are offered to show the possibilities -- if institutional and social architectures can evolve to address classic "FAIR" concerns: Findability, Accessibility, Interoperability and Reusability in the overall context of Indigenous CARE principles. 
